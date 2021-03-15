@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Ridge and Lasso regression:
     Ridge and Lasso regression are powerful techniques generally used for creating parsimonious models in presence of a ‘large’ number of features. Here ‘large’ can typically mean either of two things:
 
@@ -51,3 +52,10 @@ Here, α (alpha) works similar to that of ridge and provides a trade-off between
     1. α = 0: Same coefficients as simple linear regression
     2. α = ∞: All coefficients zero (same logic as before)
     3. 0 < α < ∞: coefficients between 0 and that of simple linear regression
+=======
+# Score-Analytics-
+Machine Learning Project-3
+
+
+using Ridge and Lasso 
+>>>>>>> 19ae8431ddbe946f721433b281e179bfe25e78a1
